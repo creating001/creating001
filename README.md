@@ -1,5 +1,5 @@
-﻿<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=800&lines=console.log(an%20acm%20rookie%20chicken)&center=true&size=30" alt="Typing SVG" />
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=800&lines=an%20acm%20rookie%20chicken&center=true&size=30" alt="Typing SVG" />
 </div>
 
 
