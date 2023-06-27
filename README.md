@@ -4,8 +4,8 @@
 
 
 <a href="https://creating001.github.io/">
-<img src="https://creating001.github.io/img/logo/counting.svg" style="width:500px;">
-<img src="https://creating001.github.io/img/logo/rating.svg" style="width:500px;">
+<img src="https://creating001.github.io/img/logo/counting.svg" style="width:400px;">
+<img src="https://creating001.github.io/img/logo/rating.svg" style="width:400px;">
 </a>
 
 
